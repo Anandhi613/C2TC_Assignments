@@ -1,4 +1,4 @@
-package com.tnsif.assignmenttwo;
+package com.tnsif.assignmenttwo.utilities;
 
 import com.tnsif.assignmenttwo.employees.*;
 import com.tnsif.assignmenttwo.utilities.*;
